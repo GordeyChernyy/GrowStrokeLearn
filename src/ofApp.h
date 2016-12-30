@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxSvg.h"
-#include "VectorGrow.cpp"
+#include "VectorGrow.hpp"
 
 class ofApp : public ofBaseApp{
 
